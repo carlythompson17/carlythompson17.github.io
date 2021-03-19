@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, Washington State University
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2021: Research Tech
+  * WSU-Puy
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* New git skills
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
